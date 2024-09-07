@@ -17,7 +17,7 @@ const authMiddleware = (roles: string[]) => (req: Request, res: Response, next: 
       select: { name: true } 
     });
     console.log(userRole);
-    if (!roles.includes(userRole.name)) return res.status(403).json({ message: 'Forbidden' });
+    if (userRole!== null) if(!roles.includes(userRole.name)) return res.status(403).json({ message: 'Forbidden' });
     next();
   });
 };
