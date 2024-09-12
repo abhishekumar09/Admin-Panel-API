@@ -6,11 +6,15 @@ This README provides an overview of the tools, setup, and a brief summary of an 
 
 ## Admin ID PASSWORD
 
-`{
+{
   "username": "admin",
+  
   "email": "admin@gmail.com",
+  
   "password": "adminadmin"
-}`
+  
+}
+
 **Note-: It will erase after refresh **
 
 ## Tools & Technologies Used
