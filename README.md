@@ -4,7 +4,7 @@
 
 This README provides an overview of the tools, setup, and a brief summary of an API development course.
 
-## Admin D PASSWORD
+## Admin ID PASSWORD
 
 `{
   "username": "admin",
