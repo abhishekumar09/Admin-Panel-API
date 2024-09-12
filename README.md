@@ -15,7 +15,7 @@ This README provides an overview of the tools, setup, and a brief summary of an 
   
 }
 
-**Note-: It will erase after refresh **
+**Note-: It will erase after refresh**
 
 ## Tools & Technologies Used
 
