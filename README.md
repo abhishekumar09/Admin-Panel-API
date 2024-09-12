@@ -4,6 +4,15 @@
 
 This README provides an overview of the tools, setup, and a brief summary of an API development course.
 
+## Admin D PASSWORD
+
+`{
+  "username": "admin",
+  "email": "admin@gmail.com",
+  "password": "adminadmin"
+}`
+**Note-: It will erase after refresh **
+
 ## Tools & Technologies Used
 
 - **Node.js**: JavaScript runtime for building server-side applications.
